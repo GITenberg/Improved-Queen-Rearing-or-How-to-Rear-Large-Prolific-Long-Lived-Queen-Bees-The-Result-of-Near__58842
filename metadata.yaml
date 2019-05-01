@@ -1,11 +1,16 @@
 _repo: Improved-Queen-Rearing-or-How-to-Rear-Large-Prolific-Long-Lived-Queen-Bees-The-Result-of-Near__58842
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58842-h/images/cover.jpg
 creator:
   author:
     agent_name: Alley, Henry
     gutenberg_agent_id: '50178'
     url: http://www.gutenberg.org/2009/agents/50178
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58842#Improved-Queen-Rearing-or-How-to-Rear-Large-Prolific-Long-Lived-Queen-Bees-The-Result-of-Near_
 gutenberg_issued: '2019-02-08'
 gutenberg_type: Text
 identifiers:
